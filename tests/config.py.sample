@@ -1,0 +1,9 @@
+# coding=utf-8
+
+API_TOKEN = "YOUR_API_TOKEN"
+SERVER_MODE = "sandbox"  # sandbox or production
+SC_API_KEY = "SC_API_KEY"
+SC_VOUCHER_HASH = []  # لیست کد های تخفیف
+
+USER_ID =   # شناسه کاربری مشتری
+BUSINESS_ID =          # شناسه کسب و کارتان
